@@ -1,0 +1,9 @@
+{
+  "name": "@the-chat/types",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "license": "MIT",
+  "peerDependencies": {
+    "@types/react": "^17.0.39"
+  }
+}
