@@ -1,13 +1,13 @@
 {
   "name": "@the-chat/types",
-  "version": "1.0.0",
-  "main": "index.ts",
+  "version": "1.0.1",
+  "main": "dist/index.js",
   "license": "MIT",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
   },
   "repository": "git://github.com/the-chat/types",
-  "peerDependencies": {
+  "devDependencies": {
     "@types/react": "^17.0.39"
   }
 }
