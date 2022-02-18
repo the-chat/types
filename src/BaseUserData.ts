@@ -10,4 +10,4 @@ interface BaseUserData
   lang: string
 }
 
-export default BaseUserData
+export {BaseUserData}
