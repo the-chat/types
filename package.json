@@ -1,6 +1,6 @@
 {
   "name": "@the-chat/types",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "dist/index.js",
   "license": "MIT",
   "publishConfig": {
@@ -8,6 +8,7 @@
   },
   "repository": "git://github.com/the-chat/types",
   "devDependencies": {
-    "@types/react": "^17.0.39"
+    "@types/react": "^17.0.39",
+    "firebase": "^9.6.7"
   }
 }

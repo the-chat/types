@@ -14,3 +14,4 @@ __exportStar(require("./OnInputEvent"), exports);
 __exportStar(require("./State"), exports);
 __exportStar(require("./Uuid"), exports);
 __exportStar(require("./Type"), exports);
+__exportStar(require("./BaseUserData"), exports);
