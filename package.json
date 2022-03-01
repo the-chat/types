@@ -3,9 +3,6 @@
   "version": "1.0.4",
   "main": "dist/index.js",
   "license": "MIT",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  },
   "repository": "git://github.com/the-chat/types",
   "devDependencies": {
     "@types/react": "^17.0.39",
