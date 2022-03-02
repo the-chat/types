@@ -1,8 +1,14 @@
 {
   "name": "@the-chat/types",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "main": "dist/index.js",
   "license": "MIT",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "public": "rm -rf ./dist&&tsc&&npm publish"
+  },
   "repository": "git://github.com/the-chat/types",
   "devDependencies": {
     "@types/react": "^17.0.39",
