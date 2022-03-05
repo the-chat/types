@@ -1,1 +1,1 @@
-export type Uuid = {uuid: string}
+export type Uuid = { uuid: string }

@@ -1,4 +1,4 @@
-import {User} from "firebase/auth"
+import { User } from "firebase/auth"
 
 interface BaseUserData
   extends Pick<
@@ -10,4 +10,4 @@ interface BaseUserData
   lang: string
 }
 
-export {BaseUserData}
+export { BaseUserData }
