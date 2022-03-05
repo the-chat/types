@@ -7,7 +7,7 @@
     "dist"
   ],
   "scripts": {
-    "public": "rm -rf ./dist&&tsc&&npm publish"
+    "prepublish": "rm -rf dist&&tsc"
   },
   "repository": "git://github.com/the-chat/types",
   "devDependencies": {
